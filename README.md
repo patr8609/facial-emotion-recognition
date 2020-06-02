@@ -1,9 +1,9 @@
 # 計算機程式期末專案 - 人臉情緒辨識
 
 組員名單：
-108701037 應數一 黃馨霈 (加強CNN模型訓練結果)
-108701039 應數一 許芝寧 (加強CNN模型訓練結果)
-105304015 統計四 張智鈞 (建立GAN模型及訓練、合照影片的延伸應用、報告整理)
+108701037 應數一 黃馨霈 (加強CNN模型訓練結果)<br/>
+108701039 應數一 許芝寧 (加強CNN模型訓練結果)<br/>
+105304015 統計四 張智鈞 (建立GAN模型及訓練、合照影片的延伸應用、報告整理)<br/>
 105304054 統計四 蕭貫博 (建立CNN模型及最終訓練、報告結論分析、報告整理)
 
 ### 一、專案主題與研究動機
@@ -62,19 +62,26 @@ Conv2D及maxpolling並加入dropout來強化訓練效果也避免overfitting，�
 ![gen](https://github.com/patr8609/face/blob/master/readme_graph/gen.jpg)
 ###### discriminator
 ![dis](https://github.com/patr8609/face/blob/master/readme_graph/dis.jpg)
-![test2](https://github.com/patr8609/face/blob/master/readme_graph/test2.jpg)
+<br/>
+###### 合照應用
+![test2](https://github.com/patr8609/face/blob/master/readme_graph/test2.png)
 <br/>
 ![pic1](https://github.com/patr8609/face/blob/master/readme_graph/pic1.jpg)
+<br/>
 ![pic1p](https://github.com/patr8609/face/blob/master/readme_graph/pic1p.jpg)
 <br/>
 ![test_girl](https://github.com/patr8609/face/blob/master/readme_graph/test_girl.jfif)
+<br/>
+![pic](https://github.com/patr8609/face/blob/master/readme_graph/pic2.jpg)
+<br/>
 ![pic2p](https://github.com/patr8609/face/blob/master/readme_graph/pic2p.jpg)
 <br/>
+###### 影片應用
 ![output2](https://github.com/patr8609/face/blob/master/readme_graph/output2.gif)
 <br/>
 ![final_output](https://github.com/patr8609/face/blob/master/readme_graph/final_output.gif)
 <br/>
-![final_output(1)](https://github.com/patr8609/face/blob/master/readme_graph/https://github.com/patr8609/face/blob/master/readme_graph/final_output%20(1).gif)
+![final_output(1)](https://github.com/patr8609/face/blob/master/readme_graph/final_output%20(1).gif)
 
 ### 六、總結與展望
 
