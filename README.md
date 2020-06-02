@@ -63,8 +63,8 @@ Conv2D及maxpolling並加入dropout來強化訓練效果也避免overfitting，�
 ###### discriminator
 ![dis](https://github.com/patr8609/face/blob/master/readme_graph/dis.jpg)
 <br/>
-![gan](https://github.com/patr8609/face/blob/master/readme_graph/gan.jpg)
-<br/>
+![gan](https://github.com/patr8609/face/blob/master/readme_graph/gan.png)
+<br/><br/>
 ###### 合照應用
 ![1](https://github.com/patr8609/face/blob/master/readme_graph/1.jpg)
 ![pic1](https://github.com/patr8609/face/blob/master/readme_graph/pic1.jpg)
@@ -73,7 +73,7 @@ Conv2D及maxpolling並加入dropout來強化訓練效果也避免overfitting，�
 ![2](https://github.com/patr8609/face/blob/master/readme_graph/2.jpg)
 ![pic](https://github.com/patr8609/face/blob/master/readme_graph/pic2.jpg)
 ![pic2p](https://github.com/patr8609/face/blob/master/readme_graph/pic2p.jpg)
-<br/>
+<br/><br/><br/>
 ###### 影片應用
 ![output2](https://github.com/patr8609/face/blob/master/readme_graph/output2.gif)
 <br/>
