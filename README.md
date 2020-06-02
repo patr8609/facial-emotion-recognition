@@ -55,20 +55,26 @@ Conv2D及maxpolling並加入dropout來強化訓練效果也避免overfitting，�
 
 ### 五、各模型程式碼與結果呈現
 
-##### CNN
+###### CNN
 ![CNN](https://github.com/patr8609/face/blob/master/readme_graph/cnn.jpg)
 ![CNN1](https://github.com/patr8609/face/blob/master/readme_graph/cnn1.jpg)
-![CNN2](https://github.com/patr8609/face/blob/master/readme_graph/cnn2.jpg)
+###### generator
 ![gen](https://github.com/patr8609/face/blob/master/readme_graph/gen.jpg)
+###### discriminator
 ![dis](https://github.com/patr8609/face/blob/master/readme_graph/dis.jpg)
 ![test2](https://github.com/patr8609/face/blob/master/readme_graph/test2.jpg)
+<br/>
 ![pic1](https://github.com/patr8609/face/blob/master/readme_graph/pic1.jpg)
 ![pic1p](https://github.com/patr8609/face/blob/master/readme_graph/pic1p.jpg)
+<br/>
 ![test_girl](https://github.com/patr8609/face/blob/master/readme_graph/test_girl.jfif)
 ![pic2p](https://github.com/patr8609/face/blob/master/readme_graph/pic2p.jpg)
+<br/>
 ![output2](https://github.com/patr8609/face/blob/master/readme_graph/output2.gif)
+<br/>
 ![final_output](https://github.com/patr8609/face/blob/master/readme_graph/final_output.gif)
-![final_output(1)](https://github.com/patr8609/face/blob/master/readme_graph/final_output(1).gif)
+<br/>
+![final_output(1)](https://github.com/patr8609/face/blob/master/readme_graph/https://github.com/patr8609/face/blob/master/readme_graph/final_output%20(1).gif)
 
 ### 六、總結與展望
 
