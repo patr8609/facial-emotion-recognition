@@ -34,7 +34,7 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 分類我們把資料較少的屬性及不明顯差異如disgust/surprise/neutral去除
 <br/><br/>
 ### 三、需求套件
-panda(資料處理)/ os(路徑/儲存控制)/ Image(處理圖片)/     openCV(處理圖片/影片及人臉偵測套件)/ tensorflow_keras(深度學習模型建立/訓練)
+panda(資料處理)/ os(路徑/儲存控制)/ Image(處理圖片)/<br/>openCV(處理圖片/影片及人臉偵測套件)/ tensorflow_keras(深度學習模型建立/訓練)
 <br/><br/>
 ### 四、實作
 
