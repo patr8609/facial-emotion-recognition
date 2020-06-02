@@ -55,7 +55,7 @@ Conv2D及maxpolling並加入dropout來強化訓練效果也避免overfitting，�
 
 ### 五、各模型程式碼與結果呈現
 
-
+![CNN](https://github.com/patr8609/face/blob/master/readme_graph/cnn.jpg)
 ### 六、總結與展望
 
 總結：模型成果能快速辨別各類照片或影片中之個別人臉情緒
