@@ -1,11 +1,11 @@
 # 計算機程式期末專案 - 人臉情緒辨識
-
+<br/><br/><br/><br/>
 組員名單：<br/>
 108701037 應數一 黃馨霈 (加強CNN模型訓練結果)<br/>
 108701039 應數一 許芝寧 (加強CNN模型訓練結果)<br/>
 105304015 統計四 張智鈞 (建立GAN模型及訓練、合照影片的延伸應用、報告整理)<br/>
 105304054 統計四 蕭貫博 (建立CNN模型及最終訓練、報告結論分析、報告整理)
-
+<br/><br/>
 ### 一、專案主題與研究動機
 
 我們這組的專案主題是人臉情緒辨識。
@@ -15,7 +15,7 @@
 而現今在圖像辨識及人工智慧的發展下，我們能夠利用機器來判斷一個人的情緒反應，能夠節省人力，也有更多可能的延伸應用，例如演講會談中對於觀眾的即時情緒調查。
 
 此次專案內容會先建立起合照、獨照、影片中的個別人臉擷取模型，另外也利用GAN生成對抗網路來嘗試生成更多人臉的圖片。
-
+<br/><br/>
 ### 二、資料來源
 
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
@@ -32,10 +32,10 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
   - 6=Neutral
   
 分類我們把資料較少的屬性及不明顯差異如disgust/surprise/neutral去除
-
+<br/><br/>
 ### 三、需求套件
 panda(資料處理)/ os(路徑/儲存控制)/ Image(處理圖片)/     openCV(處理圖片/影片及人臉偵測套件)/ tensorflow_keras(深度學習模型建立/訓練)
-
+<br/><br/>
 ### 四、實作
 
 ##### CNN
@@ -52,7 +52,7 @@ Conv2D及maxpolling並加入dropout來強化訓練效果也避免overfitting，�
 
 在人臉擷取模型我們利用opencv中「haarcascade_frontalface_default.xml」這個人臉分類器來偵測出合照中的個別人臉並切分開來儲存，影片也是同樣概念，而在測試過後確實能夠精準偵測個別人臉，並且再套入CNN人臉情緒辨認模型，可以精準的辨認出大部分的情緒。
 
-
+<br/><br/>
 ### 五、各模型程式碼與結果呈現
 
 ###### CNN
@@ -84,12 +84,12 @@ Conv2D及maxpolling並加入dropout來強化訓練效果也避免overfitting，�
 ![final_output](https://github.com/patr8609/face/blob/master/readme_graph/final_output.gif)
 <br/>
 ![final_output(1)](https://github.com/patr8609/face/blob/master/readme_graph/final_output%20(1).gif)
-
+<br/><br/>
 ### 六、總結與展望
 
 總結：模型成果能快速辨別各類照片或影片中之個別人臉情緒
 展望：能更優化GAN模型以產生更多有效訓練資料，以加強情緒辨認的結果，能夠配合這些模型做出更多人臉相關的有趣應用(ex:辨別性別/年齡/影片AI換臉...)
-
+<br/><br/>
 ### 七、參考資料
 
 https://www.freecodecamp.org/news/facial-emotion-recognition-develop-a-c-n-n-and-break-into-kaggle-top-10-f618c024faa7/<br/>
