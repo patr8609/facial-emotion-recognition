@@ -1,6 +1,6 @@
 # 計算機程式期末專案 - 人臉情緒辨識
 
-組員名單：
+組員名單：<br/>
 108701037 應數一 黃馨霈 (加強CNN模型訓練結果)<br/>
 108701039 應數一 許芝寧 (加強CNN模型訓練結果)<br/>
 105304015 統計四 張智鈞 (建立GAN模型及訓練、合照影片的延伸應用、報告整理)<br/>
@@ -63,6 +63,8 @@ Conv2D及maxpolling並加入dropout來強化訓練效果也避免overfitting，�
 ###### discriminator
 ![dis](https://github.com/patr8609/face/blob/master/readme_graph/dis.jpg)
 <br/>
+![gan](https://github.com/patr8609/face/blob/master/readme_graph/gan.jpg)
+<br/>
 ###### 合照應用
 ![test2](https://github.com/patr8609/face/blob/master/readme_graph/test2.png)
 <br/>
@@ -90,8 +92,8 @@ Conv2D及maxpolling並加入dropout來強化訓練效果也避免overfitting，�
 
 ### 七、參考資料
 
-https://www.freecodecamp.org/news/facial-emotion-recognition-develop-a-c-n-n-and-break-into-kaggle-top-10-f618c024faa7/
-https://github.com/jeffheaton/t81_558_deep_learning/blob/4543275232ed555b8f99277d18bf55b227f469db/t81_558_class_07_2_Keras_gan.ipynb
+https://www.freecodecamp.org/news/facial-emotion-recognition-develop-a-c-n-n-and-break-into-kaggle-top-10-f618c024faa7/<br/>
+https://github.com/jeffheaton/t81_558_deep_learning/blob/4543275232ed555b8f99277d18bf55b227f469db/t81_558_class_07_2_Keras_gan.ipynb<br/>
 https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81
 
 
